@@ -1,5 +1,6 @@
 
-firefox可用userChromeJS脚本备份:
+firefox可用userChromeJS脚本备份
+
 MouseGestures  ：集合汇总，可打开指定网址，目前弹出关闭标签目录失效
 AutoPopup
 QuickOpen 自定义打开目录/网址/工具/程序 及图标
@@ -9,4 +10,3 @@ Tabplus - 自动切换到鼠标移动到的标签页/标签栏鼠标滚轮切换
 
 目前更新截至firefox117
 脚本参考来源： 卡饭，火狐中文论坛，奶酪，
-  
