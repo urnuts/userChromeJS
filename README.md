@@ -1,4 +1,4 @@
-
+>
 firefox可用userChromeJS脚本备份
 
 MouseGestures  ：集合汇总，可打开指定网址，目前弹出关闭标签目录失效
